@@ -11,7 +11,7 @@ const RatingSelect = ({select}) => {
   };
 
   useEffect(() => {
-    setSelected(feedBackEdit.item.rating)
+    setSelected(feedBackEdit.item)
   },[feedBackEdit])
 
   return (

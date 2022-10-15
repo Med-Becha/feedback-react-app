@@ -1,4 +1,4 @@
-import PropTypes from 'prop-types'
+// import PropTypes from 'prop-types'
 import { useContext } from 'react';
 import FeedbackContext from '../context/FeedBackContex'
 
